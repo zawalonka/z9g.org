@@ -12,21 +12,21 @@ website: Z9G.ORG
 # twitter_username: jekyll
 github_username: zawalonka
 # dribbble_username: jekyll
-facebook_username: George Zawalonka
+# facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
 linkedin_username: zawalonka
 # pinterest_username: jekyll
-youtube_username: zawalonka
+# youtube_username: jekyll
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hello, My name is George Zawalonka and I fancy myself as a Computer Technician, Drone Engineer, and Forward Looking Technology Enthusiast!
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am currently learning: <mark>Web Dev</mark> and as always <mark>Life</mark>
 
 # Projects Section
 # projects_title: Projects
