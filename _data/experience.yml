@@ -6,6 +6,7 @@
  #  type quote here
   description: | # this will include new lines to allow paragraphs
    I provided advanced phone and chat support to multiple fortune 500 clients  
+
 - company: CCI Atomics
  # link: www.taos.com
   job_title: Drone Engineer
@@ -13,13 +14,51 @@
  # quote: >
  #  type quote here
   description: | # this will include new lines to allow paragraphs
-   I worked on building and tuning a 12S 1.6 meter hexacopter drone while designing a ecommerce site
+   I worked on building and tuning a 12S 1.6 meter hexacopter while also designing a ecommerce site
  #  this was a nightmare
+
 - company: Visit Philadelphia
   link: www.visitphilly.com
-  job_title: IT Support Specialist
+  job_title: Technical Support Specialist
   dates: June 2016 - August 2016
  # quote: >
  #  type quote here
   description: | # this will include new lines to allow paragraphs
    I Provided internall techsupport and assisted with inventory, I only worked here part time as a contract
+
+- company: Voree IT Solutions
+  link: www.voree.net
+  job_title: IT Consultant
+  dates: October 2015 - April 2016
+ # quote: >
+ #  type quote here
+  description: | # this will include new lines to allow paragraphs
+   I was the primary point of contact for all clients and provided phone support as well as onsite support.
+
+- company: Omega Systems
+  link: www.omegasystemscorp.com
+  job_title: IT Consultant
+  dates: January 2013 - October 2015
+ # quote: >
+ #  type quote here
+  description: | # this will include new lines to allow paragraphs
+   Provided phone support to clients as well as developing an internal sharepoint site.
+
+- company: United States Air Force
+  link: www.airforce.com
+  job_title: Crew Chief
+  dates: March 2004 - March 2010
+ # quote: >
+ #  type quote here
+  description: | # this will include new lines to allow paragraphs
+   Worked as a 2A373 on F16's making sure the aircraft was inspected and kept at the hight of readiness at all times.
+
+- company: EZ-Data
+  link: www.ebix.com
+  job_title: Technical Support Specialist
+  dates: January 2000 - January 2002
+ # quote: >
+ #  type quote here
+  description: | # this will include new lines to allow paragraphs
+   Provided phone support for an insurance and investment tracking software
+
