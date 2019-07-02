@@ -26,7 +26,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hello, My name is George Zawalonka and I fancy myself as a Computer Technician, Drone Engineer, and Forward Looking Technology Enthusiast!
 
-  I am currently learning: <mark>Web Dev</mark> and as always <mark>Life</mark>
+  I am currently learning: <mark>Web Dev</mark>, <mark>Web Design</mark>, <mark>Drones</mark>,  and as always <mark>Life</mark>
 
 # Projects Section
 # projects_title: Projects
