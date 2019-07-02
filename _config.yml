@@ -40,11 +40,14 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  As well as drones and IT some of my other interests and hobbies are:
+  As well as Drones and IT, I also enjoy doing the following:
+   - Following technology developments
    - Flying both real and simulated planes
    - Games
-   - Automotive Racing
+   - Reading
+   - Automotive racing
    - Building things
+   - Disassembling things
 
 # Footer
 footer_show_references: true
