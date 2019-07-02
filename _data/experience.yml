@@ -15,8 +15,7 @@
  #  type quote here
   description: | # this will include new lines to allow paragraphs
    I worked on building and tuning a 12S 1.6 meter hexacopter while also designing a ecommerce site
- #  this was a nightmare
-
+ 
 - company: Visit Philadelphia
   link: www.visitphilly.com
   job_title: Technical Support Specialist
