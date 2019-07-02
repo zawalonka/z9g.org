@@ -1,6 +1,6 @@
-#- name: Lehigh Carbon Community College
-#  dates: 2013 - 2015
-#  qualification: BSc Computer Science
+- name: Lehigh Carbon Community College
+  dates: 2014 - 2016
+  qualification: Professional Pilot A.A.S (incomplete)
 #  quote: >
 #    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
 #  description: | # this will include new lines to allow paragraphs
